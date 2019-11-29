@@ -1,4 +1,4 @@
-const form = document.querySelector(".js-form"),
+const form = document.querySelector(".js-toDoForm"),
     input = form.querySelector("input");
     greeting = document.querySelector(".js-greetings");
 const USER_LS = "currentUser",
