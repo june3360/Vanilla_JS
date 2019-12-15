@@ -6,3 +6,8 @@ Vanilla_JS
 ## clock
 ## greeting message (localstorage)
 ## todo list
+
+
+A thing to do
+-board
+-portfolio page
