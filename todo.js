@@ -52,7 +52,7 @@ function loadToDos() {
 
 function init() {
     loadToDos();
-    toDOList.addEventListener("submit", handleSubmit);
+    toDoList.addEventListener("submit", handleSubmit);
 }
 
 init();
